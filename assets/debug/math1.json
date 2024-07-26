@@ -1,0 +1,76 @@
+{
+  "mathquiz1": [
+    {
+      "question": " What is the Pythagorean Theorem? ",
+      "answer1": "A) a² + b² = c ",
+      "answer2": "B) a + b = c²",
+      "answer3": "C)c² = a² - b² ",
+      "answer4": "D) c² = a² + b²",
+      "correct": "C) D"
+    },
+    {
+      "question": " What is the quadratic formula? ",
+      "answer1": "A) x = (-b ± √b² - 4ac) / 2a",
+      "answer2": "B) x = (-b ± √b² + 4ac) / 2a",
+      "answer3": "C) x = (-b ± 2a√b² - 4ac) / 2a",
+      "answer4": "D) x = (-b ± 2a√b² + 4ac) / 2a",
+      "correct": "D) A"
+    },
+    {
+      "question": "Which of the following is a prime number? ",
+      "answer1": "A) 27",
+      "answer2": "B) 31",
+      "answer3": "C) 33",
+      "answer4": "D) 35 ",
+      "correct": "A) B"
+    },
+    {
+      "question": " What is the value of sin 60°? ",
+      "answer1": "A) 1/2 ",
+      "answer2": "B)  √3/2",
+      "answer3": "C) 1/√2 ",
+      "answer4": "D) √2/2 ",
+      "correct": "B)  B"
+    }, {
+
+      "question": " If a triangle has angles 50° and 60°, what is the measure of the third angle? ",
+      "answer1": "A) 50° ",
+      "answer2": "B) 60° ",
+      "answer3": "C) 70° ",
+      "answer4": "D) 80° ",
+      "correct": "C) C"
+    },
+    {
+      "question": " If the cost of 5 pencils is $1.25, what is the cost of 8 pencils? ",
+      "answer1": "A) $1.80 ",
+      "answer2": "B) $2.00 ",
+      "answer3": "C) $2.25",
+      "answer4": "D) $2.50",
+      "correct": "D) B"
+    },
+    {
+      "question": "  The value of (x + 3)3 – (x – 3)3 is",
+      "answer1": "A) 18x^2 + 54",
+      "answer2": "B) 1 – x^3 ",
+      "answer3": "C) 0",
+      "answer4": "D) 3x^2-5",
+      "correct": "A) A"
+    },
+    {
+      "question": " What is the simplified form of ( a^2 – b^2 )^2 ?",
+      "answer1": "A) a^4 + 2a^2b^2 + b^4",
+      "answer2": "B) a^4 - 2a^2b^2 + b^4",
+      "answer3": "C) a^4 - 2a^2b^2 - b^4",
+      "answer4": "D) a^4 + a^2b^2 + b^4",
+      "correct": "B) B"
+    },
+    {
+      "question": " If 2x + y = 5 then 4x + 2y is equal to ",
+      "answer1": "A) 10",
+      "answer2": "B) 8",
+      "answer3": "C) 5",
+      "answer4": "D) 9",
+      "correct": "A) A"
+    }
+  ]
+}

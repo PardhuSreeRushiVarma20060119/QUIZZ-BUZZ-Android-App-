@@ -1,0 +1,75 @@
+{
+  "mathquiz": [
+    {
+      "question": " Diseases like polio and chicken pox are caused by ",
+      "answer1": "A) Bacteria",
+      "answer2": "B) Fungi",
+      "answer3": "C) Virus",
+      "answer4": "D) Worms",
+      "correct": "C) C"
+    },
+    {
+      "question": "ABCDEF?",
+      "answer1": "A) Algae, Bacteria",
+      "answer2": "B) Bacteria and Fungi",
+      "answer3": "C) Bacteria and Viruses",
+      "answer4": "D) Algae and Fungi",
+      "correct": "D) D"
+    },
+    {
+      "question": " A common preservative used in jam and pickles is",
+      "answer1": "A) Sodium benzoate",
+      "answer2": "B) Nitric acid",
+      "answer3": "C)Sodium Chloride ",
+      "answer4": "D)Copper Sulphate ",
+      "correct": "A) A"
+    },
+    {
+      "question": " Raj and his family ____________________ here since May 1980 . [ live ] ",
+      "answer1": "A)  is living",
+      "answer2": "B) have been living",
+      "answer3": "C) are living ",
+      "answer4": "D) has been living",
+      "correct": "B) B"
+    }, {
+      "question": " Our examination _______________ on 4th March . [ begin ] ",
+      "answer1": "A) has begun ",
+      "answer2": "B) is beginning ",
+      "answer3": "C) begins  ",
+      "answer4": "D) began ",
+      "correct": "C) C"
+    },
+    {
+      "question": "  After he _______________ the roof _____________ [ leave , collapse ]",
+      "answer1": "A) left ,collapsed ",
+      "answer2": "B)  has left , collapsed",
+      "answer3": "C) left , had collapsed",
+      "answer4": "D) had left, collapsed ",
+      "correct": "D) D"
+    },
+    {
+      "question": "  The value of (x + 3)3 – (x – 3)3 is",
+      "answer1": "A) 18x^2 + 54",
+      "answer2": "B) 1 – x^3 ",
+      "answer3": "C) 0",
+      "answer4": "D) 3x^2-5",
+      "correct": "A) A"
+    },
+    {
+      "question": " What is the simplified form of ( a^2 – b^2 )^2 ?",
+      "answer1": "A) a^4 + 2a^2b^2 + b^4",
+      "answer2": "B) a^4 - 2a^2b^2 + b^4",
+      "answer3": "C) a^4 - 2a^2b^2 - b^4",
+      "answer4": "D) a^4 + a^2b^2 + b^4",
+      "correct": "B) B"
+    },
+    {
+      "question": " If 2x + y = 5 then 4x + 2y is equal to ",
+      "answer1": "A) 10",
+      "answer2": "B) 8",
+      "answer3": "C) 5",
+      "answer4": "D) 9",
+      "correct": "A) A"
+    }
+  ]
+}
