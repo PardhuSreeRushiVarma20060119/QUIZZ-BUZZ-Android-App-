@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#A61106"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/total_question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Total Questions"
+        android:layout_marginTop="20dp"
+        android:textColor="#EEEE"
+        android:textSize="30dp"
+        />
+
+    <TextView
+        android:id="@+id/Question"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/choices_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="THIS IS OUR QUESTION"
+        android:textColor="#EED1C0C0"
+        android:textSize="30dp"
+        android:textStyle="italic" />
+
+
+    <Button
+            android:id="@+id/ans_a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FBFBFB"
+            android:text="Ans A"
+            android:textColor="@color/black"
+            android:textSize="24sp">
+        </Button>
+
+
+        <Button
+            android:id="@+id/ans_b"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FBFBFB"
+            android:text="Ans B"
+            android:textColor="@color/black"
+            android:textSize="24sp">
+        </Button>
+
+        <Button
+            android:id="@+id/ans_c"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FBFBFB"
+            android:text="Ans C"
+            android:textColor="@color/black"
+            android:textSize="24sp">
+        </Button>
+
+        <Button
+            android:id="@+id/ans_d"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#FBFBFB"
+            android:text="Ans D"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+        </Button>
+</LinearLayout>
+</RelativeLayout>
+
+
+
+
+
+
